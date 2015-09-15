@@ -1,1 +1,1 @@
-#This is a basic python website code for some interesting movies and theri trailers
+#This is a basic python website code for some interesting movies and there trailers
